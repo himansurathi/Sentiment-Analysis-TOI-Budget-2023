@@ -14,5 +14,5 @@ pip install datetime
 pip install striprtf
 ```
 # Collaborators
-Himansu Rathi
-Kshitiz Kumar
+- Himansu Rathi
+- Kshitiz Kumar
