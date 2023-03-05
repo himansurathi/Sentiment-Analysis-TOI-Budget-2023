@@ -13,3 +13,6 @@ pip install xlwt
 pip install datetime
 pip install striprtf
 ```
+# Collaborators
+Himansu Rathi
+Kshitiz Kumar
