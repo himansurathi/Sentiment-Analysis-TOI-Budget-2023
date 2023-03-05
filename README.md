@@ -7,7 +7,7 @@ Python 3.0
 # Packages
 ```
 py -m ensurepip --upgrade
-pip install ntlk
+pip install nltk
 pip install pandas
 pip install xlwt
 pip install datetime
